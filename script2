@@ -1,0 +1,6 @@
+#!/bin/bash
+var="Good Afternoon"
+
+echo $var $USER
+sleep 1
+echo "$var are you there?"

@@ -1,0 +1,3 @@
+#!/bin/bash
+num=$( ls $(pwd) | wc -l )
+echo "There are $num files in this directory"
